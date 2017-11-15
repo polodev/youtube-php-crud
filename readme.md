@@ -3,7 +3,7 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=MYhw4-Bc-oM
 " target="_blank"><img src="http://img.youtube.com/vi/MYhw4-Bc-oM/0.jpg" 
-alt="create read update delete - CRUD in php and mysql using Php Data Object - pdo" width="240" border="10" /></a>
+alt="create read update delete - CRUD in php and mysql using Php Data Object - pdo" width="360" border="10" /></a>
 
 
 
