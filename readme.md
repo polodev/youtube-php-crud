@@ -9,6 +9,11 @@ alt="create read update delete - CRUD in php and mysql using Php Data Object - p
 
 In this video tutorial I have shown how to make a basic crud application in php. I have connected with database using php PDO(php data object). Which is database agnostic. You can connect any sql database with this procedure.      
 
+### Objective of this video
+* You will be able to create, read, update, delete in php
+* You will understand php data object(PDO). PDO is database agnostic. You can connect any sql database with php. PDO is most recommended way to connect with database.
+* You will understand basic php workflow.
+
 ### blah blah blah....
 Don't be scare about the basic command line. Lot of people scare about command line. Actually command line help us to get rid of laborious work a lot. in this video I have used `cd`  for changing directory. `mkdir` for making directory. `touch` for making file. Here `touch` was very handy. I make 5 file in single line command. `touch index.php create.php edit.php delete.php db.php`. If you are windows user use [git bash](https://git-scm.com/) to perform those command.
 
